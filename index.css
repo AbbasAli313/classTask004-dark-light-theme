@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#colorButton {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  box-shadow: 1px 1px 1px gray;
+  margin-top: 200px;
+}
